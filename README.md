@@ -1,18 +1,16 @@
-#Indian Defence Database [Grade XII Project in CPP with graphics]
+# Indian Defence Database [Grade XII Project in CPP]
 
 Salient features :
-<ul>
- <li>This was developed as XII(Grade 12) Computer Science project by Sony Mathew(ynos1234@gmail.com). </li>
- <li>Developed in C++ involving all the OOP concepts. </li>
- <li>Developed using Turbo C++ IDE. </li>
- <li>Requires graphics.h header file.</li>
- <li>It will be difficult to run this in 64 bit environment except using an emulator. </li>
- <li>Fully graphical interface and can use mouse inside the program as buttons and menus have been implemented.
-Check OUT the ScreenShots..!! </li>
-</ul>
+* This was developed as Grade XII School Computer Science project.
+* Developed in C++ involving all the OOP concepts.
+* Developed using Turbo C++ IDE.
+* Requires graphics.h header file.
+* It will be difficult to run this in 64 bit environment except using an emulator.
+* Fully graphical interface and can use mouse inside the program as buttons and menus have been implemented.
+Check OUT the ScreenShots..!!
 
 
-<h4>EXISTING SYSTEM </h4>
+## EXISTING SYSTEM
 
 Even in the advancement of software compatibility and efficiency the present system of Indian Defense Data Base still works very inefficiently. 
 Even though existing system has nearly all the information that the proposed system asks for, it does not have a centralized access for all this information. 
@@ -26,7 +24,7 @@ Editing the registers is a complex task. Lack automation makes the existing syst
            
 
 
-<h4>PROPOSED SYSTEM </h4>
+## PROPOSED SYSTEM
 
 Proposed system aims at removing the drawbacks of existing system. 
 A computerized database management for Indian Defense reduces human labor and save time. 
@@ -41,7 +39,3 @@ Moreover the password protection ensures prevention of unauthorized entry and da
 The system provides all necessary information about telephone directory software. 
 Proposed system aims at removing the drawbacks of existing system. 
 A computerized Indian Defense Management Software reduces human labor and saves time.
-
-
-
-For any queries contact ynos1234@gmail.com.
